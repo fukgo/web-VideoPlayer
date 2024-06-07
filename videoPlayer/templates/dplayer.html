@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        #dplayer {
+            max-width: 960px;
+            height: 620px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+<div id="dplayer"></div>
+<script src="https://cdn.jsdelivr.net/npm/dplayer/dist/DPlayer.min.js"></script>
+<script>
+    console.log('{{ file_path }}')
+    const dp = new DPlayer({
+            //容器
+            container: document.getElementById('dplayer'),
+            video: {
+                //视频链接
+                url: '{% url 'stream_video' file_path %}',
+                //视频封面
+                //pic: '/media/pre-img/{{ file_path }}.png',
+                //视频缩略图
+                //thumbnails: 'https://cdn.jsdelivr.net/gh/zhaojun1998/zhaojun1998.github.io/video/1.jpg',
+            },
+            lang: 'zh-cn',
+            contextmenu: [
+                {
+                    text: 'github',
+                    link: 'https://github.com/fukgo'
+                },
+            ],
+        }
+    );
+</script>
+
+</body>
+</html>
