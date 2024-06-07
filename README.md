@@ -4,7 +4,7 @@
 
 实现效果：
 
-![](./VideoPlayer/readme_img/home.png)
+![](https://github.com/fukgo/web-VideoPlayer/readme_img/home.png)
 
 ![](./VideoPlayer/readme_img/list.png)
 
