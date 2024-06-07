@@ -3,12 +3,13 @@
 ##### 实现原理：django+nginx+Dplayer+waitress
 
 实现效果：
+https://github.com/用户名/repository仓库名/raw/分支名master/图片文件夹名称/***.png or***.jpg
 
-![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/home.png)
+![image](https://github.com/fukgo/web-VideoPlayer/raw/main/videoPlayer/readme_img/home.png)
 
-![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/list.png)
+![image](https://github.com/fukgo/web-VideoPlayer/raw/main/videoPlayer/readme_img/list.png)
 
-![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/video.png)
+![image](https://github.com/fukgo/web-VideoPlayer/raw/main/videoPlayer/readme_img/video.png)
 
 ##### 前提：
 
