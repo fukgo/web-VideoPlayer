@@ -4,11 +4,11 @@
 
 实现效果：
 
-![](/VideoPlayer/readme_img/home.png)
+![](./VideoPlayer/readme_img/home.png)
 
-![](/VideoPlayer/readme_img/list.png)
+![](./VideoPlayer/readme_img/list.png)
 
-![](/VideoPlayer/readme_img/video.png)
+![](./VideoPlayer/readme_img/video.png)
 
 ##### 前提：
 
