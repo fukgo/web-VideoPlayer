@@ -4,11 +4,11 @@
 
 实现效果：
 
-![](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/home.png)
+![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/home.png)
 
-![](./VideoPlayer/readme_img/list.png)
+![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/list.png)
 
-![](./VideoPlayer/readme_img/video.png)
+![image](https://github.com/fukgo/web-VideoPlayer/tree/main/videoPlayer/readme_img/video.png)
 
 ##### 前提：
 
